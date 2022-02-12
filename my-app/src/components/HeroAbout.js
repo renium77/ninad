@@ -13,7 +13,7 @@ function HeroAbout() {
                 </Text> 
 
                 <Text fontSize={{base:'xl', md:'2xl'}} pt='20px'>
-                    i am a <chakra.span fontWeight='bold'>front-end devloper</chakra.span> and a <chakra.span fontWeight='bold'>designer.</chakra.span>
+                    i am a <chakra.span fontWeight='bold'>front-end developer</chakra.span> and a <chakra.span fontWeight='bold'>designer.</chakra.span>
                 </Text> 
 
                 <Text fontSize={{base:'xl', md:'2xl'}} pt='20px'>
@@ -21,7 +21,7 @@ function HeroAbout() {
                 </Text>
 
                 <Text fontSize={{base:'xl', md:'2xl'}} pt='20px'>
-                    currently based out of Aurangabad. i spend my free time lerning about "WEB3", tinkering about software design, doomscrolling
+                    currently based out of Aurangabad. i spend my free time learning about "WEB3", tinkering about software design, doomscrolling
                     the internet and <Tooltip label='basically playing VALORANT'>clicking heads.</Tooltip>
                 </Text>
 
